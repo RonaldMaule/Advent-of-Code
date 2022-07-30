@@ -1,5 +1,4 @@
 import System.IO
-import Data.IORef
 import qualified Data.Text    as Text
 import qualified Data.Text.IO as Text
 import qualified Data.Text.Read as Text
